@@ -16,11 +16,11 @@ Interactive Power BI dashboard analyzing pricing, margin, and performance for 42
 **Page 1: OverView Dashboard**
 ![Overview Dashboard](01_Overview_Dashboard.png)
 
-**Page 2: Margin & Efficiency
-![Margin & Efficiency](02_Margin_&_Efficiency.png)
+**Page 2: Margin Efficiency**
+![Margin Efficiency](02_Margin_Efficiency.png)
 
 **Page 3: Price vs Horsepower**
-![Price vs HP](03_price_vs_horse_power.png)
+![Price vs HP](03_Price_Vs_HorsePower.png)
 
 ### Recommendations
 1. **Grow volume with Sedans** but protect margin by filling the $35K–$48K gap
